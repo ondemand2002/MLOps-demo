@@ -1,4 +1,5 @@
 # Continuous Integration (CI) pipeline that orchestrates the training, evaluation, and registration of the diabetes_regression model.
+# add new for testing
 
 resources:
   containers:
